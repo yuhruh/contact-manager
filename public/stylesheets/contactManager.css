@@ -1,0 +1,93 @@
+* {
+  margin: 0;
+  padding: 0;
+  margin-left: 5px;
+  box-sizing: border-box;
+  font-family: "Gill Sans", sans-serif;
+}
+
+header {
+  background-color: #6AA84F;
+  height: 125px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+header h1 {
+  color: #F5F5F5;
+  font-size: 40px;
+}
+
+main {
+  padding-bottom: 50px;
+  border-bottom: 1px solid #ccc;
+}
+
+fieldset {
+  background-color: #EEEEEE;
+  margin-right: 50px;
+  margin-left: 50px;
+  margin-bottom: 20px;
+  height: 150px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+div {
+  margin-bottom: 15px;
+}
+
+p {
+  padding: 8px 10px;
+  font-weight: initial;
+}
+
+.custom-input {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border: 1px, groove;
+  border: 1px, solid;
+  padding: 6px 8px;
+}
+
+#add-contact-form {
+  font-weight: bold;
+  display: none;
+  min-height: 100vh;
+  margin-right: 50px;
+  margin-left: 200px;
+  margin-bottom: 20px;
+}
+
+
+#search-by-tags {
+  font-size: 18px;
+  margin-left: 50px;
+}
+
+#add-contact-btn {
+  font-size: 20px;
+  background-color: #EEEEEE;
+  color: #6AA84F;
+  border-radius: 5px;
+  border: 1px, solid;
+  padding: 10px 16px;
+  margin: 20px auto;
+}
+
+#search {
+  font-size: 16px;
+  background-color: #FFFFFF;
+  color: #6AA84F;
+  border-radius: 5px;
+  border: 1px, groove;
+  padding: 6px 8px;
+  margin: auto;
+}
+
