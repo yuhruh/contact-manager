@@ -4,20 +4,27 @@
     "full_name": "Naveed Fida",
     "email": "nf@example.com",
     "phone_number": "12345678901",
-    "tags": "work,friend"
-  },
-  {
-    "id": 2,
-    "full_name": "Victor Reyes",
-    "email": "vpr@example.com",
-    "phone_number": "09876543210",
-    "tags": "work,friend"
+    "tags": "ta,doctor"
   },
   {
     "id": 3,
     "full_name": "Pete Hanson",
     "email": "ph@example.com",
     "phone_number": "54321098761",
-    "tags": null
+    "tags": "other,ta"
+  },
+  {
+    "full_name": "Troy Rosaaen",
+    "phone_number": "567483928174",
+    "email": "tr@example.com",
+    "tags": "work,friend,engineering",
+    "id": 7
+  },
+  {
+    "full_name": "check",
+    "phone_number": "5675555555",
+    "email": "check@example.com",
+    "tags": "doctor,other",
+    "id": 8
   }
 ]
