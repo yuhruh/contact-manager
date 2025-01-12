@@ -91,3 +91,18 @@ p {
   margin: auto;
 }
 
+/*pagination links*/
+.pagination a {
+  color: #6AA84F;
+  float: left;
+  text-decoration: none;
+  transition: : background-color .3s;
+}
+
+.pagination a.active {
+  background-color: #FFE4C4;
+  color: white;
+}
+
+.pagination a:hover:not(.active) {background-color: #DCDCDC;}
+
